@@ -11,7 +11,7 @@ To leverage my extensive IT experience and passion for cybersecurity in a dynami
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Risk Assessment          | <a href="https://github.com/MarcVillamar/Security-Audit-Lab/edit/main/README.md">Security Risk Assessment Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -60,7 +60,7 @@ To leverage my extensive IT experience and passion for cybersecurity in a dynami
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/MarcVillamar/Security-Audit-Lab/edit/main/README.md">Security Risk Assessment Lab</a>
 - SOC Automation Project
 
 <!---
