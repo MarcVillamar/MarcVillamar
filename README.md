@@ -1,18 +1,19 @@
 # Hello, I am Marcelo Villamar
 <a href="https://www.linkedin.com/in/marcelo-villamar-5abb75186/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an experienced IT professional with a profound interest in technology and dedication to solve complex problems. I am a huge Cybesecurity advocate, and look forward to joining a Cyber security team to protect agaisnt threats and make a difference in otday's complex cybersecurity landscape.
+I am an experienced IT professional with a profound interest in technology and a dedication to solving complex problems. As a passionate cybersecurity advocate, I look forward to joining a cybersecurity team to protect against threats and make a difference in today's complex cybersecurity landscape.
 
 ## Objective
 
 To leverage my extensive IT experience and passion for cybersecurity in a dynamic and challenging environment. I aim to join a forward-thinking SOC team where I can apply my skills and knowledge to protect against evolving threats, ensure the integrity of critical systems, and contribute to the overall security posture of the organization.
+
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Risk Assessment          | <a href="https://github.com/MarcVillamar/Security-Audit-Lab">Security Risk Assessment Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Assessments | <a href="https://github.com/MarcVillamar/Vulnerability-Assessment">NIST SP800-30 Vulnerability Assessment</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -61,7 +62,7 @@ To leverage my extensive IT experience and passion for cybersecurity in a dynami
 
 ## Projects
 - <a href="https://github.com/MarcVillamar/Security-Audit-Lab">Security Risk Assessment Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/MarcVillamar/Vulnerability-Assessment">NIST SP800-30 Vulnerability Assessment</a>
 
 <!---
 MarcVillamar/MarcVillamar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
