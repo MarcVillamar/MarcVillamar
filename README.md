@@ -7,8 +7,7 @@ I am an experienced IT professional with a profound interest in technology and a
 
 To leverage my extensive IT experience and passion for cybersecurity in a dynamic and challenging environment. I aim to join a forward-thinking SOC team where I can apply my skills and knowledge to protect against evolving threats, ensure the integrity of critical systems, and contribute to the overall security posture of the organization.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Skill
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -65,6 +64,7 @@ To leverage my extensive IT experience and passion for cybersecurity in a dynami
 - <a href="https://github.com/MarcVillamar/Linux-Labs">Linux File Permissions Lab</a>
 - <a href="https://github.com/MarcVillamar/SQL-Lab">SQL Lab</a>
 - <a href="https://github.com/MarcVillamar/Incident-Response-NIST-CSF-Lab">Incident Response with NIST CSF</a>
+- <a href="https://github.com/MarcVillamar/Incident-Response-NIST-CSF-Lab">Incident Handler Journal</a>
 - <a href="https://github.com/MarcVillamar/Security-Audit-Lab">Security Risk Assessment Lab</a>
 - <a href="https://github.com/MarcVillamar/Vulnerability-Assessment">NIST SP800-30 Vulnerability Assessment</a>
 
