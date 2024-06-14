@@ -12,10 +12,10 @@ To leverage my extensive IT experience and passion for cybersecurity in a dynami
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Risk Assessment          | <a href="https://github.com/MarcVillamar/Security-Audit-Lab">Security Risk Assessment Lab</a>|
-| Vulnerability Assessments | <a href="https://github.com/MarcVillamar/Vulnerability-Assessment">NIST SP800-30 Vulnerability Assessment</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Linux          | <a href="https://github.com/MarcVillamar/Linux-Labs">Linux Labs</a>|
+| Incident Response | <a href="https://github.com/MarcVillamar/Incident-Response-NIST-CSF-Lab">Incident Response with NIST CSF</a>|
+| Risk Assessment         | <a href="https://github.com/MarcVillamar/Security-Audit-Lab">Security Risk Assessment Lab</a>|
+| Vulnerability Assessments      | <a href="https://github.com/MarcVillamar/Vulnerability-Assessment">NIST SP800-30 Vulnerability Assessment</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -61,6 +61,8 @@ To leverage my extensive IT experience and passion for cybersecurity in a dynami
 </div>
 
 ## Projects
+- <a href="https://github.com/MarcVillamar/Linux-Labs">Linux File Permissions Lab</a>
+- <a href="https://github.com/MarcVillamar/Incident-Response-NIST-CSF-Lab">Incident Response with NIST CSF</a>
 - <a href="https://github.com/MarcVillamar/Security-Audit-Lab">Security Risk Assessment Lab</a>
 - <a href="https://github.com/MarcVillamar/Vulnerability-Assessment">NIST SP800-30 Vulnerability Assessment</a>
 
