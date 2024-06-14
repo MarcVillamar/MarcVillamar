@@ -12,11 +12,12 @@ To leverage my extensive IT experience and passion for cybersecurity in a dynami
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Linux          | <a href="https://github.com/MarcVillamar/Linux-Labs">Linux Labs</a>|
+| Python                  | <a href="https://github.com/MarcVillamar/Python-Repo">Python Labs</a>|
 | SQL                  | <a href="https://github.com/MarcVillamar/SQL-Lab">SQL Lab</a>|
 | Incident Response | <a href="https://github.com/MarcVillamar/Incident-Response-NIST-CSF-Lab">Incident Response with NIST CSF</a> // <a href="https://github.com/MarcVillamar/Incident-Handler-Journal">Incident Handler Journal</a>|
 | Risk Assessment         | <a href="https://github.com/MarcVillamar/Security-Audit-Lab">Security Risk Assessment Lab</a>|
 | Vulnerability Assessments      | <a href="https://github.com/MarcVillamar/Vulnerability-Assessment">NIST SP800-30 Vulnerability Assessment</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+
 <!---| Scripting and Automation for Threat Mitigation | SOC Automation Lab| ---> 
 
 ## Tools
@@ -62,6 +63,7 @@ To leverage my extensive IT experience and passion for cybersecurity in a dynami
 
 ## Projects
 - <a href="https://github.com/MarcVillamar/Linux-Labs">Linux File Permissions Lab</a>
+- <a href="https://github.com/MarcVillamar/Python-Repo">Python Labs</a>
 - <a href="https://github.com/MarcVillamar/SQL-Lab">SQL Lab</a>
 - <a href="https://github.com/MarcVillamar/Incident-Response-NIST-CSF-Lab">Incident Response with NIST CSF</a>
 - <a href="https://github.com/MarcVillamar/Incident-Handler-Journal">Incident Handler Journal</a>
