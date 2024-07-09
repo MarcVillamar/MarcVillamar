@@ -12,7 +12,7 @@ To leverage my extensive IT experience and passion for cybersecurity in a dynami
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Linux          | <a href="https://github.com/MarcVillamar/Linux-Labs">Linux Labs</a>|
-| Python                  | <a href="https://github.com/MarcVillamar/Python-Repo">Python Labs</a>|
+| Python                  | <a href="https://github.com/MarcVillamar/Python-Repo">Python File Management</a>, <a href="https://github.com/MarcVillamar/Python-Repo/tree/Basic-Port-Scanner">Basic Network Scanner</a>|
 | SQL                  | <a href="https://github.com/MarcVillamar/SQL-Lab">SQL Lab</a>|
 | Incident Response | <a href="https://github.com/MarcVillamar/Incident-Response-NIST-CSF-Lab">Incident Response with NIST CSF</a> // <a href="https://github.com/MarcVillamar/Incident-Handler-Journal">Incident Handler Journal</a>|
 | Risk Assessment         | <a href="https://github.com/MarcVillamar/Security-Audit-Lab">Security Risk Assessment Lab</a>|
