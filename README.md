@@ -63,7 +63,7 @@ To leverage my extensive IT experience and passion for cybersecurity in a dynami
 
 ## Projects
 - <a href="https://github.com/MarcVillamar/Linux-Labs">Linux File Permissions Lab</a>
-- <a href="https://github.com/MarcVillamar/Python-Repo">Python Labs</a>
+- <a href="https://github.com/MarcVillamar/Python-Repo/branches">Python Labs</a> 
 - <a href="https://github.com/MarcVillamar/SQL-Lab">SQL Lab</a>
 - <a href="https://github.com/MarcVillamar/Incident-Response-NIST-CSF-Lab">Incident Response with NIST CSF</a>
 - <a href="https://github.com/MarcVillamar/Incident-Handler-Journal">Incident Handler Journal</a>
